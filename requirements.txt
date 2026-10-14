@@ -14,3 +14,4 @@ boto3
 openpyxl
 requests
 python-dateutil
+psycopg[binary]
